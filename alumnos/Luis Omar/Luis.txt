@@ -1,0 +1,4 @@
+¿Cuál es tu nombre? Luis Omar
+¿Donde trabajas o donde estudias? UABC 
+¿Cuál es tu pasatiempo o Hobby? Musica 
+¿Cuál es el objetivo por el cual quieres aprender a programar? Proyectos academicos 

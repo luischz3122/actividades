@@ -1,0 +1,8 @@
+¿Cuál es tu nombre?
+Javier andoval
+¿Donde trabajas o donde estudias?
+Consultor independiente en materia de planeación y desarrollo urbano
+¿Cuál es tu pasatiempo o Hobby?
+Mi trabajo/Videojuegos
+¿Cuál es el objetivo por el cual quieres aprender a programar?
+Reforzar conocimientos de programación para aplicarlos en mi práctica profesional

@@ -1,0 +1,11 @@
+¿Cuál es tu nombre?
+Alexis Israel Fabela Rodriguez
+
+¿Donde trabajas o donde estudias?
+Estudie en Instituto Tecnologico de Ensenada
+
+¿Cuál es tu pasatiempo o Hobby?
+Leer y Jugar videojuegos
+
+¿Cuál es el objetivo por el cual quieres aprender a programar?
+Aprender a hacer videojuegos
