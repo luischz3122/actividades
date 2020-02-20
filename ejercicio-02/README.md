@@ -1,6 +1,7 @@
 
 
-# Ejercicio 02 - Tipo de datos y operaciones aritmeticas
+
+# Ejercicio 02 - Tipo de datos, operaciones aritméticas, captura de datos.
 
 En programación los tipos de datos son una parte fundamental de la programación en todos los lenguajes de programación que existen, los tipos de datos se utilizan para que la computadora entienda que puede y que no puede realizar con ellos un ejemplo de ello es que no puede intentar sumar una letra "A" con el numero 5. 
 
@@ -49,10 +50,29 @@ Imprimir una variable
     print(nuevaVariable)
 Imprimir una variable con texto
 
-    print(nuevaVariable + " otro texto")
+    print (str(nuevavariable) + " Cadena de texto")
 Guardar un valor ingresado por el usuario
 
 	    nombreUsuario = input("¿Cuál es tu nombre?")
+
+Capturar un número por parte del usuario
+
+    base = int( input("Ingresa la base del cuadrado") )
+## Casting / Casteo
+Al momento de capturar un valor en la pantalla es importante definir que tipo de datos es el que vamos a utilizar por default se utiliza el tipo  *cadena de carcateres* para ello tenemos una serie de funciones que nos ayudan a convertir el tipo de dato. 
+
+    x = int(1) # x will be 1  
+    y = int(2.8) # y will be 2  
+    z = int("3") # z will be 3
+     
+    x = float(1) # x will be 1.0  
+    y = float(2.8) # y will be 2.8  
+    z = float("3") # z will be 3.0  
+    w = float("4.2") # w will be 4.2
+    
+    x = str("s1") # x will be 's1'  
+    y = str(2) # y will be '2'  
+    z = str(3.0) # z will be '3.0'
 
 ## Actividad 01
 1. En el archivo main.py que se encuentra en la raíz del proyecto escribir *print("hola mundo")* para mostrar en consola un texto de hola mundo.
@@ -78,5 +98,6 @@ Guardar un valor ingresado por el usuario
 2. Pedir al usuario que ingrese su nombre. 
 3. Almacenar el nombre en una variable
 3. Imprimir el nombre de la persona acompañado de un *"mucho gusto"*.
+
 
 
