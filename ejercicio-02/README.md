@@ -92,12 +92,16 @@ Al momento de capturar un valor en la pantalla es importante definir que tipo de
 1. Generar 2 variables con nombres distintos, igualar una de las variables a "18" y la otra a "2".
 2. Guardar el resultado de la suma de las 2 variables en una tercera variable. 
 3. Imprimir el resultado de la suma de las 2 variables utiizando la tercera variable creada.
+4. Guardar la actividad como *Actividad-5*
 
 ## Actividad 05
 1. Imprimir en pantalla un saludo y que pregunte el nombre.
 2. Pedir al usuario que ingrese su nombre. 
 3. Almacenar el nombre en una variable
 3. Imprimir el nombre de la persona acompañado de un *"mucho gusto"*.
+4. Guardar la actividad como *Actividad-5*
 
+## Actividad 06
+- Realizar un programa que pida la base de un triangulo y la altura de un triangulo, calcule el área y lo muestre en la pantalla. Guardar la actividad como *Actividad-6*
 
 
