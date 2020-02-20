@@ -102,6 +102,6 @@ Al momento de capturar un valor en la pantalla es importante definir que tipo de
 4. Guardar la actividad como *Actividad-5*
 
 ## Actividad 06
-- Realizar un programa que pida la base de un triangulo y la altura de un triangulo, calcule el área y lo muestre en la pantalla. Guardar la actividad como *Actividad-6*
+- Realizar un programa que pida la base de un triangulo y la altura de un triangulo, calcule el área y lo muestre en la pantalla. Guardar la actividad como *Actividad-6.py*
 
 
