@@ -1,6 +1,3 @@
-language = "python3"
-run = "python main.py"
-
 cal = int( input("Calificacion: ") )
 
 if cal < 4 :
@@ -35,16 +32,4 @@ for i in range(1,100+1):
   else:
     print("Tu numero es impar", i)
 
-e = 0
-while e <100:
-  print("numeros : ",e)
-  e = e + 1
-print("Numero final: ", e)
 
-
-
-
-
-
-#Imprimir en pantalla los número del 1 al 100.
-#Imprimir la pantalla del 1 al 100 pero si es un número par poner al lado del número la frase. "Es par"
