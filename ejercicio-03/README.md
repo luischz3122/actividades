@@ -1,5 +1,5 @@
 
-# Ejercicio 03 - Condiciones y cliclos.
+# Ejercicio 03 - Condiciones y ciclos.
 
 La programación es una replicación del entorno real y sabemos que las actividades que realizamos no la hacemos de forma secuencial siempre hay variaciones. Por ejemplo para ir al cine: "Si hay una pelicula interesante entonces ire", "Si hay agua lavare los trastes", "Si no viene el profe, me ire temprano a mi casa"
 
