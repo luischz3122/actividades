@@ -9,10 +9,3 @@ while(Num<=100):
   Num= Num+ 1 
 
         
-
-
-
-
-
-
-
