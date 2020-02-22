@@ -1,10 +1,1 @@
-##USANDO CICLO WHILE
-print("imprimir los números del 1 al 100")
-numero=0
-while(numero<100):
-  numero = numero + 1
-  mod = numero%2
-  if mod == 0:
-    print(str(numero)+ " Es par ")
-  else:
-    print(str(numero))
+
