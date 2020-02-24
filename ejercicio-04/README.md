@@ -26,7 +26,7 @@ De esta forma tenemos una sola variable que es una lista pero que contiene 4 cal
 |index()| Regresa la posición indice de el primer elemento con el valor especificado|
 |insert()|Agrega un elemento de a la lista en una posición especifica|
 |pop()|Elimina el elemento de la lista de una posición especifica|
-|remove()|Elimina el valor de la con un valor en especifico|
+|remove(x)|Quita el primer ítem de la lista cuyo valor sea x. Es un error si no existe tal ítem.
 |reverse()|Ordena de forma inversa el orden de una lista|
 |sort()|Ordena la lista|
 
