@@ -7,5 +7,4 @@ while (num < 100):
   else:
     print (str(num))
 
-
 #Imprimir la pantalla del 1 al 100 pero si es un número par poner al lado del número la frase. "Es par".
