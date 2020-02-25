@@ -63,7 +63,7 @@ if (Mario01 > Juan01 and Mario01 > Pedro01 and Mario01 > Luis01):
 if (Luis01 > Juan01 and Luis01 > Pedro01 and Luis01 > Mario01):
  print ("Gano Luis")
  scoreLuis = scoreLuis + 1
-print ("Puntuación del Round 01:")
+print ("Puntuación del Round 02:")
 print ("Juan: " + str(scoreJuan))
 print ("Pedro: " + str(scorePedro))
 print ("Mario: " + str(scoreMario))
@@ -96,7 +96,7 @@ if (Mario01 > Juan01 and Mario01 > Pedro01 and Mario01 > Luis01):
 if (Luis01 > Juan01 and Luis01 > Pedro01 and Luis01 > Mario01):
  print ("Gano Luis")
  scoreLuis = scoreLuis + 1
-print ("Puntuación del Round 01:")
+print ("Puntuación del Round 03:")
 print ("Juan: " + str(scoreJuan))
 print ("Pedro: " + str(scorePedro))
 print ("Mario: " + str(scoreMario))
@@ -129,8 +129,17 @@ if (Mario01 > Juan01 and Mario01 > Pedro01 and Mario01 > Luis01):
 if (Luis01 > Juan01 and Luis01 > Pedro01 and Luis01 > Mario01):
  print ("Gano Luis")
  scoreLuis = scoreLuis + 1
-print ("Puntuación del Round 01:")
+print ("Puntuación del Round 04:")
 print ("Juan: " + str(scoreJuan))
 print ("Pedro: " + str(scorePedro))
 print ("Mario: " + str(scoreMario))
 print ("Luis: " + str(scoreLuis))
+
+if (scoreJuan > scorePedro and scoreJuan > scoreMario and scoreJuan > scoreLuis):
+  print("El ganador final es Juan")
+if (scorePedro > scoreJuan and scorePedro > scoreMario and scorePedro > scoreLuis):
+  print("El ganador final es Pedro")
+if (scoreMario > scoreJuan and scoreMario > scorePedro and scoreMario > scoreLuis):
+  print("El ganador final es Mario")
+if (scoreLuis > scoreJuan and scoreLuis > scorePedro and scoreLuis > scoreMario):
+  print("El ganador final es Luis")
